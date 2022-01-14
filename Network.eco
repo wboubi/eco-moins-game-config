@@ -1,0 +1,22 @@
+{
+  "PublicServer": false,
+  "Playtime": "",
+  "Password": "",
+  "Description": "a8991d0c2a08",
+  "DetailedDescription": "",
+  "ServerCategory": "None",
+  "IPAddress": "Any",
+  "RemoteAddress": "",
+  "WebServerUrl": "",
+  "GameServerPort": 3000,
+  "WebServerPort": 3001,
+  "RconServerPort": 3002,
+  "RconIPAddress": "Any",
+  "RconPassword": "",
+  "Rate": 20,
+  "MaxConnections": -1,
+  "ID": "2adea7ae-666e-4fbd-943e-e83d840b93c1",
+  "Passport": "4941786b-123a-4d3b-a16f-caf99e4e55da",
+  "UPnPEnabled": true,
+  "RelayServerAddress": ""
+}
