@@ -2,7 +2,7 @@
   "AllowOverthrow": true,
   "ValueAdditionToOverthrow": 50.0,
   "DayRangeForActiveDemographic": 1.5,
-  "HoursPlayedToBeActiveDemographic": 0.5,
+  "HoursPlayedToBeActiveDemographic": 1,
   "DayRangeForAbandonedDemographic": 7.0,
   "HoursPlayedToBeAbandonedDemographic": 0.0,
   "CitizenAgeForAbandonedDemographic": 24.0,
