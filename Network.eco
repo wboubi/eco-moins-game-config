@@ -7,7 +7,7 @@
   "DetailedDescription": "",
   "ServerCategory": "None",
   "IPAddress": "Any",
-  "WebServerUrl": "ecomoins.sacamer.de",
+  "WebServerUrl": "https://ecomoins.sacamer.de",
   "RemoteAddress": "ecomoins.sacamer.de",
   "GameServerPort": 3000,
   "WebServerPort": 3001,
