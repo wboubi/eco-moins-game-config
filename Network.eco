@@ -13,7 +13,7 @@
   "WebServerPort": 3001,
   "RconServerPort": 3002,
   "RconIPAddress": "Any",
-  "RconPassword": "",
+  "RconPassword": "RCONPASSWORD",
   "Rate": 20,
   "MaxConnections": -1,  
   "UPnPEnabled": true,
