@@ -1,5 +1,5 @@
 {
-  "WhitelistEnabled": false,
+  "WhitelistEnabled": true,
   "Whitelist": {
     "System.String": {
       "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
